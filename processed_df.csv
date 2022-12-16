@@ -1,288 +1,55 @@
 ,date,item,type,rarity
 0,2020-10-01,barbara,character,4
 1,2020-10-01,magic guide,weapon,3
-2,2020-10-01,magic guide,weapon,3
-3,2020-10-01,magic guide,weapon,3
-4,2020-10-01,magic guide,weapon,3
-5,2020-10-01,magic guide,weapon,3
-6,2020-10-01,magic guide,weapon,3
-7,2020-10-01,magic guide,weapon,3
-8,2020-10-01,magic guide,weapon,3
 9,2020-10-01,magic guide,weapon,4
-10,2020-10-01,magic guide,weapon,3
-11,2020-10-01,magic guide,weapon,3
-12,2020-10-01,magic guide,weapon,3
 13,2020-10-01,xiangling,character,4
-14,2020-10-01,magic guide,weapon,3
-15,2020-10-01,magic guide,weapon,3
-16,2020-10-01,magic guide,weapon,3
-17,2020-10-01,magic guide,weapon,3
-18,2020-10-01,magic guide,weapon,3
-19,2020-10-01,magic guide,weapon,3
-20,2020-10-01,magic guide,weapon,3
-21,2020-10-01,magic guide,weapon,3
-22,2020-10-01,magic guide,weapon,3
 23,2020-10-01,fischl,character,4
-24,2020-10-01,magic guide,weapon,3
-25,2020-10-01,magic guide,weapon,3
-26,2020-10-01,magic guide,weapon,3
-27,2020-10-01,magic guide,weapon,3
-28,2020-10-01,magic guide,weapon,3
-29,2020-10-01,magic guide,weapon,3
-30,2020-10-01,magic guide,weapon,4
-31,2020-10-01,magic guide,weapon,3
-32,2020-10-01,magic guide,weapon,3
-33,2020-10-01,magic guide,weapon,3
-34,2020-10-01,magic guide,weapon,3
-35,2020-10-01,magic guide,weapon,3
-36,2020-10-01,magic guide,weapon,3
-37,2020-10-01,magic guide,weapon,3
-38,2020-10-01,magic guide,weapon,3
-39,2020-10-01,barbara,character,4
 40,2020-10-20,magic guide,weapon,3
-41,2020-10-20,magic guide,weapon,3
-42,2020-10-20,magic guide,weapon,3
 43,2020-10-20,favonius greatsword,weapon,4
-44,2020-10-20,magic guide,weapon,3
 45,2020-10-20,klee,character,5
-46,2020-10-20,magic guide,weapon,3
-47,2020-10-20,magic guide,weapon,3
-48,2020-10-20,magic guide,weapon,3
-49,2020-10-20,magic guide,weapon,3
 50,2020-10-21,magic guide,weapon,3
-51,2020-10-21,magic guide,weapon,3
 52,2020-10-21,noelle,character,4
-53,2020-10-21,magic guide,weapon,3
-54,2020-10-21,magic guide,weapon,3
-55,2020-10-21,magic guide,weapon,3
-56,2020-10-21,magic guide,weapon,3
-57,2020-10-21,magic guide,weapon,3
-58,2020-10-21,magic guide,weapon,3
 59,2020-11-11,magic guide,weapon,3
-60,2020-11-11,magic guide,weapon,3
 61,2020-11-11,rainslasher,weapon,4
-62,2020-11-11,magic guide,weapon,3
-63,2020-11-11,magic guide,weapon,3
-64,2020-11-11,magic guide,weapon,3
-65,2020-11-11,magic guide,weapon,3
-66,2020-11-11,magic guide,weapon,3
-67,2020-11-11,magic guide,weapon,3
-68,2020-11-11,magic guide,weapon,3
-69,2020-11-11,magic guide,weapon,3
-70,2020-11-11,magic guide,weapon,3
 71,2020-11-11,diona,character,4
 72,2020-11-12,magic guide,weapon,3
 73,2020-11-12,beidou,character,4
-74,2020-11-12,magic guide,weapon,3
-75,2020-11-12,magic guide,weapon,3
-76,2020-11-12,magic guide,weapon,3
-77,2020-11-12,magic guide,weapon,3
-78,2020-11-12,magic guide,weapon,3
-79,2020-11-12,magic guide,weapon,3
-80,2020-11-12,magic guide,weapon,3
-81,2020-11-12,magic guide,weapon,3
 82,2020-11-12,sacrificial sword,weapon,4
-83,2020-11-12,magic guide,weapon,3
-84,2020-11-12,magic guide,weapon,3
-85,2020-11-12,magic guide,weapon,3
-86,2020-11-12,magic guide,weapon,3
-87,2020-11-12,magic guide,weapon,3
-88,2020-11-12,magic guide,weapon,3
-89,2020-11-12,magic guide,weapon,3
-90,2020-11-12,magic guide,weapon,3
 91,2020-11-12,diona,character,4
-92,2020-11-12,magic guide,weapon,3
-93,2020-11-12,magic guide,weapon,3
 94,2020-12-02,magic guide,weapon,3
-95,2020-12-02,magic guide,weapon,3
-96,2020-12-02,magic guide,weapon,3
-97,2020-12-02,magic guide,weapon,3
-98,2020-12-02,magic guide,weapon,3
-99,2020-12-02,magic guide,weapon,3
 100,2020-12-02,favonius codex,weapon,4
-101,2020-12-02,magic guide,weapon,3
-102,2020-12-02,magic guide,weapon,3
-103,2020-12-02,magic guide,weapon,3
 104,2020-12-02,chongyun,character,4
-105,2020-12-02,magic guide,weapon,3
-106,2020-12-02,magic guide,weapon,3
-107,2020-12-02,magic guide,weapon,3
-108,2020-12-02,magic guide,weapon,3
 109,2020-12-23,sacrificial sword,weapon,4
 110,2020-12-23,magic guide,weapon,3
-111,2020-12-23,magic guide,weapon,3
 112,2020-12-23,albedo,character,5
-113,2020-12-23,magic guide,weapon,3
-114,2020-12-23,magic guide,weapon,3
-115,2020-12-23,magic guide,weapon,3
-116,2020-12-23,magic guide,weapon,3
-117,2020-12-23,magic guide,weapon,3
 118,2020-12-23,bennett,character,4
-119,2020-12-23,magic guide,weapon,3
-120,2020-12-23,magic guide,weapon,3
-121,2020-12-23,magic guide,weapon,3
-122,2020-12-23,bennett,character,4
-123,2020-12-23,magic guide,weapon,3
-124,2020-12-23,magic guide,weapon,3
-125,2020-12-23,magic guide,weapon,3
-126,2020-12-23,magic guide,weapon,3
 127,2020-12-24,magic guide,weapon,3
-128,2020-12-24,magic guide,weapon,3
-129,2020-12-24,magic guide,weapon,3
-130,2020-12-24,magic guide,weapon,3
-131,2020-12-24,magic guide,weapon,3
 132,2020-12-24,favonius greatsword,weapon,4
-133,2020-12-24,magic guide,weapon,3
-134,2020-12-24,magic guide,weapon,3
-135,2020-12-24,magic guide,weapon,3
-136,2020-12-24,magic guide,weapon,3
-137,2020-12-24,magic guide,weapon,3
-138,2020-12-24,magic guide,weapon,3
 139,2021-01-13,magic guide,weapon,3
-140,2021-01-13,magic guide,weapon,3
 141,2021-01-13,xiangling,character,4
-142,2021-01-13,magic guide,weapon,3
-143,2021-01-13,magic guide,weapon,3
-144,2021-01-13,magic guide,weapon,3
-145,2021-01-13,magic guide,weapon,3
-146,2021-01-13,magic guide,weapon,3
-147,2021-01-13,magic guide,weapon,3
-148,2021-01-13,magic guide,weapon,3
-149,2021-01-13,magic guide,weapon,3
-150,2021-01-13,magic guide,weapon,3
 151,2021-01-13,eye of perception,weapon,4
-152,2021-01-13,magic guide,weapon,3
-153,2021-01-13,magic guide,weapon,3
-154,2021-01-13,magic guide,weapon,3
-155,2021-01-13,magic guide,weapon,3
-156,2021-01-13,magic guide,weapon,3
-157,2021-01-13,magic guide,weapon,3
-158,2021-01-13,magic guide,weapon,3
-159,2021-01-13,magic guide,weapon,3
-160,2021-01-13,magic guide,weapon,3
 161,2021-01-13,noelle,character,4
 162,2021-02-04,magic guide,weapon,3
-163,2021-02-04,magic guide,weapon,3
 164,2021-02-04,xiangling,character,4
-165,2021-02-04,magic guide,weapon,3
-166,2021-02-04,magic guide,weapon,3
-167,2021-02-04,magic guide,weapon,3
-168,2021-02-04,magic guide,weapon,3
-169,2021-02-04,magic guide,weapon,3
-170,2021-02-04,magic guide,weapon,3
-171,2021-02-04,magic guide,weapon,3
-172,2021-02-04,magic guide,weapon,3
 173,2021-02-04,beidou,character,4
-174,2021-02-04,magic guide,weapon,3
-175,2021-02-04,magic guide,weapon,3
-176,2021-02-04,magic guide,weapon,3
-177,2021-02-04,magic guide,weapon,3
-178,2021-02-04,magic guide,weapon,3
-179,2021-02-04,magic guide,weapon,3
-180,2021-02-04,magic guide,weapon,3
-181,2021-02-04,magic guide,weapon,3
 182,2021-02-04,xinyan,character,4
 183,2021-02-04,xiao,character,5
-184,2021-02-04,magic guide,weapon,3
-185,2021-02-04,magic guide,weapon,3
 186,2021-02-04,favonius codex,weapon,4
-187,2021-02-04,magic guide,weapon,3
-188,2021-02-04,magic guide,weapon,3
-189,2021-02-04,magic guide,weapon,3
-190,2021-02-04,magic guide,weapon,3
-191,2021-02-04,magic guide,weapon,3
 192,2021-02-17,magic guide,weapon,3
-193,2021-02-17,magic guide,weapon,3
-194,2021-02-17,magic guide,weapon,3
 195,2021-02-17,barbara,character,4
-196,2021-02-17,magic guide,weapon,3
-197,2021-02-17,magic guide,weapon,3
-198,2021-02-17,magic guide,weapon,3
-199,2021-02-17,magic guide,weapon,3
-200,2021-02-17,magic guide,weapon,3
-201,2021-02-17,magic guide,weapon,3
-202,2021-02-17,magic guide,weapon,3
-203,2021-02-17,magic guide,weapon,3
 204,2021-02-17,the flute,weapon,4
-205,2021-02-17,magic guide,weapon,3
-206,2021-02-17,magic guide,weapon,3
-207,2021-02-17,magic guide,weapon,3
-208,2021-02-17,magic guide,weapon,3
-209,2021-02-17,magic guide,weapon,3
-210,2021-02-17,magic guide,weapon,3
-211,2021-02-17,magic guide,weapon,3
-212,2021-02-17,magic guide,weapon,3
 213,2021-02-17,ningguang,character,4
-214,2021-02-17,magic guide,weapon,3
-215,2021-02-17,magic guide,weapon,3
 216,2021-02-17,favonius lance,weapon,4
-217,2021-02-17,magic guide,weapon,3
-218,2021-02-17,magic guide,weapon,3
 219,2021-02-17,qiqi,character,5
-220,2021-02-17,magic guide,weapon,3
-221,2021-02-17,magic guide,weapon,3
-222,2021-02-17,magic guide,weapon,3
-223,2021-02-17,magic guide,weapon,3
-224,2021-02-17,magic guide,weapon,3
 225,2021-02-17,keqing,character,5
-226,2021-02-17,barbara,character,4
 227,2021-02-18,magic guide,weapon,3
 228,2021-02-18,chongyun,character,4
-229,2021-02-18,magic guide,weapon,3
-230,2021-02-18,magic guide,weapon,3
-231,2021-02-18,magic guide,weapon,3
 232,2021-03-03,magic guide,weapon,3
-233,2021-03-03,magic guide,weapon,3
-234,2021-03-03,magic guide,weapon,3
-235,2021-03-03,magic guide,weapon,3
-236,2021-03-03,magic guide,weapon,3
 237,2021-03-03,xingqiu,character,4
-238,2021-03-03,magic guide,weapon,3
-239,2021-03-03,magic guide,weapon,3
-240,2021-03-03,magic guide,weapon,3
-241,2021-03-03,magic guide,weapon,3
-242,2021-03-03,magic guide,weapon,3
-243,2021-03-03,magic guide,weapon,3
-244,2021-03-03,magic guide,weapon,3
-245,2021-03-03,magic guide,weapon,3
-246,2021-03-03,magic guide,weapon,3
 247,2021-03-03,favonius warbow,weapon,4
-248,2021-03-03,magic guide,weapon,3
-249,2021-03-03,magic guide,weapon,3
-250,2021-03-03,magic guide,weapon,3
-251,2021-03-03,magic guide,weapon,3
-252,2021-03-03,magic guide,weapon,3
-253,2021-03-03,magic guide,weapon,3
-254,2021-03-03,magic guide,weapon,3
-255,2021-03-03,magic guide,weapon,3
-256,2021-03-03,magic guide,weapon,3
-257,2021-03-03,xingqiu,character,4
-258,2021-03-03,magic guide,weapon,3
-259,2021-03-03,magic guide,weapon,3
-260,2021-03-03,magic guide,weapon,3
-261,2021-03-03,magic guide,weapon,3
-262,2021-03-03,magic guide,weapon,3
-263,2021-03-03,magic guide,weapon,3
-264,2021-03-03,magic guide,weapon,3
 265,2021-03-03,jean,character,5
-266,2021-03-03,magic guide,weapon,3
 267,2021-03-03,chongyun,character,4
-268,2021-03-03,magic guide,weapon,3
-269,2021-03-03,magic guide,weapon,3
-270,2021-03-03,magic guide,weapon,3
-271,2021-03-03,magic guide,weapon,3
-272,2021-03-03,magic guide,weapon,3
-273,2021-03-03,magic guide,weapon,3
-274,2021-03-03,magic guide,weapon,3
-275,2021-03-03,magic guide,weapon,3
-276,2021-03-03,magic guide,weapon,3
-277,2021-03-03,favonius warbow,weapon,4
-278,2021-03-03,magic guide,weapon,3
 279,2021-04-07,magic guide,weapon,3
-280,2021-04-07,magic guide,weapon,3
-281,2021-04-07,magic guide,weapon,3
-282,2021-04-07,magic guide,weapon,3
-283,2021-04-07,magic guide,weapon,3
 284,2021-04-07,barbara,character,4
 285,2021-04-28,skyrider sword,weapon,3
 286,2021-04-28,noelle,character,4
@@ -292,18 +59,14 @@
 290,2021-04-28,black tassel,weapon,3
 291,2021-04-28,slingshot,weapon,3
 292,2021-04-28,debate club,weapon,3
-293,2021-04-28,skyrider sword,weapon,3
-294,2021-04-28,debate club,weapon,3
 295,2021-04-30,ferrous shadow,weapon,3
 296,2021-04-30,diona,character,4
 297,2021-04-30,sharpshooter's oath,weapon,3
 298,2021-04-30,magic guide,weapon,3
 299,2021-04-30,harbinger of dawn,weapon,3
-300,2021-04-30,sharpshooter's oath,weapon,3
 301,2021-04-30,black tassel,weapon,3
 302,2021-04-30,raven bow,weapon,3
 303,2021-04-30,debate club,weapon,3
-304,2021-04-30,magic guide,weapon,3
 305,2021-05-02,favonius lance,weapon,4
 306,2021-05-03,debate club,weapon,3
 307,2021-05-03,raven bow,weapon,3
@@ -321,28 +84,16 @@
 319,2021-05-18,black tassel,weapon,3
 320,2021-05-18,thrilling tales of dragon slayers,weapon,3
 321,2021-05-18,slingshot,weapon,3
-322,2021-05-18,slingshot,weapon,3
 323,2021-05-18,harbinger of dawn,weapon,3
 324,2021-05-18,debate club,weapon,3
 325,2021-05-18,ferrous shadow,weapon,3
 326,2021-05-18,rainslasher,weapon,4
 327,2021-05-18,sharpshooter's oath,weapon,3
 328,2021-05-18,raven bow,weapon,3
-329,2021-05-18,debate club,weapon,3
 330,2021-05-18,bloodtainted greatsword,weapon,3
-331,2021-05-18,slingshot,weapon,3
-332,2021-05-18,ferrous shadow,weapon,3
-333,2021-05-18,raven bow,weapon,3
 334,2021-05-18,cool steel,weapon,3
-335,2021-05-18,black tassel,weapon,3
 336,2021-05-18,xingqiu,character,4
-337,2021-05-18,black tassel,weapon,3
-338,2021-05-18,bloodtainted greatsword,weapon,3
-339,2021-05-18,harbinger of dawn,weapon,3
 340,2021-05-18,emerald orb,weapon,3
-341,2021-05-18,harbinger of dawn,weapon,3
-342,2021-05-18,magic guide,weapon,3
-343,2021-05-18,thrilling tales of dragon slayers,weapon,3
 344,2021-05-18,eula,character,5
 345,2021-05-19,beidou,character,4
 346,2021-05-19,sharpshooter's oath,weapon,3
@@ -367,31 +118,21 @@
 365,2021-06-05,debate club,weapon,3
 366,2021-07-02,skyrider sword,weapon,3
 367,2021-07-02,black tassel,weapon,3
-368,2021-07-02,black tassel,weapon,3
-369,2021-07-02,skyrider sword,weapon,3
 370,2021-07-02,razor,character,4
 371,2021-07-02,magic guide,weapon,3
 372,2021-07-02,slingshot,weapon,3
-373,2021-07-02,magic guide,weapon,3
 374,2021-07-02,raven bow,weapon,3
 375,2021-07-02,cool steel,weapon,3
 376,2021-07-02,thrilling tales of dragon slayers,weapon,3
 377,2021-07-02,emerald orb,weapon,3
 378,2021-07-02,harbinger of dawn,weapon,3
 379,2021-07-02,rosaria,character,4
-380,2021-07-02,harbinger of dawn,weapon,3
-381,2021-07-02,magic guide,weapon,3
-382,2021-07-02,thrilling tales of dragon slayers,weapon,3
-383,2021-07-02,slingshot,weapon,3
-384,2021-07-02,skyrider sword,weapon,3
-385,2021-07-02,emerald orb,weapon,3
 386,2021-07-21,bloodtainted greatsword,weapon,3
 387,2021-07-21,debate club,weapon,3
 388,2021-07-21,slingshot,weapon,3
 389,2021-07-21,sacrificial fragments,weapon,4
 390,2021-07-21,cool steel,weapon,3
 391,2021-07-21,black tassel,weapon,3
-392,2021-07-21,black tassel,weapon,3
 393,2021-07-21,magic guide,weapon,3
 394,2021-07-21,emerald orb,weapon,3
 395,2021-07-21,harbinger of dawn,weapon,3
@@ -402,52 +143,21 @@
 400,2021-08-10,skyrider sword,weapon,3
 401,2021-08-10,black tassel,weapon,3
 402,2021-08-10,magic guide,weapon,3
-403,2021-08-10,skyrider sword,weapon,3
 404,2021-08-10,debate club,weapon,3
 405,2021-08-10,ferrous shadow,weapon,3
 406,2021-08-10,sayu,character,4
-407,2021-08-10,skyrider sword,weapon,3
-408,2021-08-10,skyrider sword,weapon,3
-409,2021-08-10,skyrider sword,weapon,3
-410,2021-08-10,black tassel,weapon,3
 411,2021-08-10,cool steel,weapon,3
 412,2021-08-10,slingshot,weapon,3
-413,2021-08-10,harbinger of dawn,weapon,3
-414,2021-08-10,black tassel,weapon,3
-415,2021-08-10,black tassel,weapon,3
 416,2021-08-10,favonius codex,weapon,4
-417,2021-08-10,skyrider sword,weapon,3
 418,2021-08-10,raven bow,weapon,3
-419,2021-08-10,sharpshooter's oath,weapon,3
 420,2021-08-10,diluc,character,5
-421,2021-08-10,harbinger of dawn,weapon,3
-422,2021-08-10,black tassel,weapon,3
-423,2021-08-10,slingshot,weapon,3
-424,2021-08-10,slingshot,weapon,3
-425,2021-08-10,debate club,weapon,3
 426,2021-08-10,xinyan,character,4
-427,2021-08-10,raven bow,weapon,3
-428,2021-08-10,black tassel,weapon,3
-429,2021-08-10,emerald orb,weapon,3
-430,2021-08-10,ferrous shadow,weapon,3
-431,2021-08-10,debate club,weapon,3
-432,2021-08-10,skyrider sword,weapon,3
 433,2021-08-10,barbara,character,4
-434,2021-08-10,debate club,weapon,3
-435,2021-08-10,sharpshooter's oath,weapon,3
-436,2021-08-10,cool steel,weapon,3
-437,2021-08-10,slingshot,weapon,3
-438,2021-08-10,black tassel,weapon,3
-439,2021-08-10,harbinger of dawn,weapon,3
-440,2021-08-10,black tassel,weapon,3
-441,2021-08-10,sharpshooter's oath,weapon,3
 442,2021-08-11,sayu,character,4
 443,2021-08-13,cool steel,weapon,3
 444,2021-08-13,sharpshooter's oath,weapon,3
 445,2021-08-13,harbinger of dawn,weapon,3
-446,2021-08-13,sharpshooter's oath,weapon,3
 447,2021-08-13,skyrider sword,weapon,3
-448,2021-08-13,sharpshooter's oath,weapon,3
 449,2021-08-14,slingshot,weapon,3
 450,2021-08-16,raven bow,weapon,3
 451,2021-08-17,favonius greatsword,weapon,4
@@ -455,61 +165,28 @@
 453,2021-09-02,harbinger of dawn,weapon,3
 454,2021-09-02,black tassel,weapon,3
 455,2021-09-02,debate club,weapon,3
-456,2021-09-02,harbinger of dawn,weapon,3
 457,2021-09-02,ferrous shadow,weapon,3
 458,2021-09-02,emerald orb,weapon,3
 459,2021-09-02,skyrider sword,weapon,3
 460,2021-09-02,kujou sara,character,4
-461,2021-09-02,debate club,weapon,3
 462,2021-09-02,sharpshooter's oath,weapon,3
-463,2021-09-02,harbinger of dawn,weapon,3
 464,2021-09-02,magic guide,weapon,3
-465,2021-09-02,sharpshooter's oath,weapon,3
-466,2021-09-02,ferrous shadow,weapon,3
 467,2021-09-02,thrilling tales of dragon slayers,weapon,3
 468,2021-09-02,favonius sword,weapon,4
 469,2021-09-02,raven bow,weapon,3
 470,2021-09-02,cool steel,weapon,3
 471,2021-09-02,xiangling,character,4
-472,2021-09-02,sharpshooter's oath,weapon,3
-473,2021-09-02,ferrous shadow,weapon,3
-474,2021-09-02,magic guide,weapon,3
-475,2021-09-02,thrilling tales of dragon slayers,weapon,3
-476,2021-09-02,ferrous shadow,weapon,3
-477,2021-09-02,harbinger of dawn,weapon,3
-478,2021-09-02,black tassel,weapon,3
-479,2021-09-02,cool steel,weapon,3
 480,2021-09-02,sucrose,character,4
 481,2021-09-02,slingshot,weapon,3
-482,2021-09-02,slingshot,weapon,3
-483,2021-09-02,emerald orb,weapon,3
-484,2021-09-02,slingshot,weapon,3
-485,2021-09-02,cool steel,weapon,3
-486,2021-09-02,thrilling tales of dragon slayers,weapon,3
-487,2021-09-02,debate club,weapon,3
-488,2021-09-02,skyrider sword,weapon,3
-489,2021-09-02,black tassel,weapon,3
 490,2021-09-02,sacrificial bow,weapon,4
-491,2021-09-02,cool steel,weapon,3
-492,2021-09-02,black tassel,weapon,3
-493,2021-09-02,debate club,weapon,3
-494,2021-09-02,cool steel,weapon,3
-495,2021-09-02,slingshot,weapon,3
 496,2021-09-02,raiden shogun,character,5
-497,2021-09-02,thrilling tales of dragon slayers,weapon,3
-498,2021-09-02,harbinger of dawn,weapon,3
-499,2021-09-02,emerald orb,weapon,3
-500,2021-09-02,xiangling,character,4
 501,2021-10-13,cool steel,weapon,3
 502,2021-10-13,raven bow,weapon,3
 503,2021-10-13,bennett,character,4
 504,2021-10-13,harbinger of dawn,weapon,3
 505,2021-10-13,bloodtainted greatsword,weapon,3
-506,2021-10-13,harbinger of dawn,weapon,3
 507,2021-10-13,thrilling tales of dragon slayers,weapon,3
-508,2021-10-13,cool steel,weapon,3
 509,2021-10-13,sharpshooter's oath,weapon,3
-510,2021-10-13,harbinger of dawn,weapon,3
 511,2021-10-17,raven bow,weapon,3
 512,2021-10-17,chongyun,character,4
 513,2021-11-01,slingshot,weapon,3
@@ -518,100 +195,26 @@
 516,2021-11-01,bloodtainted greatsword,weapon,3
 517,2021-11-02,sharpshooter's oath,weapon,3
 518,2021-11-02,harbinger of dawn,weapon,3
-519,2021-11-02,sharpshooter's oath,weapon,3
 520,2021-11-02,magic guide,weapon,3
 521,2021-11-02,debate club,weapon,3
 522,2021-11-02,the stringless,weapon,4
 523,2021-11-02,slingshot,weapon,3
-524,2021-11-02,harbinger of dawn,weapon,3
 525,2021-11-02,ferrous shadow,weapon,3
 526,2021-11-02,raven bow,weapon,3
 527,2021-11-02,bloodtainted greatsword,weapon,3
-528,2021-11-02,slingshot,weapon,3
 529,2021-11-02,emerald orb,weapon,3
 530,2021-11-02,black tassel,weapon,3
 531,2021-11-02,sayu,character,4
-532,2021-11-02,raven bow,weapon,3
 533,2021-11-02,thrilling tales of dragon slayers,weapon,3
-534,2021-11-02,thrilling tales of dragon slayers,weapon,3
-535,2021-11-02,ferrous shadow,weapon,3
-536,2021-11-02,sharpshooter's oath,weapon,3
-537,2021-11-02,slingshot,weapon,3
 538,2021-11-02,xiangling,character,4
-539,2021-11-02,raven bow,weapon,3
-540,2021-11-02,harbinger of dawn,weapon,3
-541,2021-11-02,raven bow,weapon,3
-542,2021-11-02,thrilling tales of dragon slayers,weapon,3
 543,2021-11-02,skyrider sword,weapon,3
-544,2021-11-02,thrilling tales of dragon slayers,weapon,3
-545,2021-11-02,skyrider sword,weapon,3
-546,2021-11-02,sayu,character,4
-547,2021-11-02,sharpshooter's oath,weapon,3
-548,2021-11-02,ferrous shadow,weapon,3
-549,2021-11-02,thrilling tales of dragon slayers,weapon,3
-550,2021-11-02,black tassel,weapon,3
 551,2021-11-02,qiqi,character,5
-552,2021-11-02,magic guide,weapon,3
-553,2021-11-02,black tassel,weapon,3
-554,2021-11-02,emerald orb,weapon,3
 555,2021-11-02,rainslasher,weapon,4
-556,2021-11-02,thrilling tales of dragon slayers,weapon,3
-557,2021-11-02,emerald orb,weapon,3
-558,2021-11-02,bloodtainted greatsword,weapon,3
-559,2021-11-02,magic guide,weapon,3
-560,2021-11-02,emerald orb,weapon,3
-561,2021-11-02,sharpshooter's oath,weapon,3
-562,2021-11-02,magic guide,weapon,3
-563,2021-11-02,black tassel,weapon,3
 564,2021-11-02,thoma,character,4
-565,2021-11-02,slingshot,weapon,3
-566,2021-11-02,thrilling tales of dragon slayers,weapon,3
-567,2021-11-02,debate club,weapon,3
-568,2021-11-02,sharpshooter's oath,weapon,3
-569,2021-11-02,black tassel,weapon,3
-570,2021-11-02,debate club,weapon,3
 571,2021-11-02,favonius codex,weapon,4
-572,2021-11-02,thrilling tales of dragon slayers,weapon,3
-573,2021-11-02,black tassel,weapon,3
-574,2021-11-02,emerald orb,weapon,3
 575,2021-11-02,cool steel,weapon,3
-576,2021-11-02,thoma,character,4
-577,2021-11-02,debate club,weapon,3
-578,2021-11-02,thoma,character,4
-579,2021-11-02,debate club,weapon,3
-580,2021-11-02,bloodtainted greatsword,weapon,3
-581,2021-11-02,emerald orb,weapon,3
-582,2021-11-02,black tassel,weapon,3
-583,2021-11-02,bloodtainted greatsword,weapon,3
-584,2021-11-02,cool steel,weapon,3
-585,2021-11-02,skyrider sword,weapon,3
-586,2021-11-02,black tassel,weapon,3
 587,2021-11-02,eye of perception,weapon,4
-588,2021-11-02,ferrous shadow,weapon,3
-589,2021-11-02,skyrider sword,weapon,3
-590,2021-11-02,emerald orb,weapon,3
-591,2021-11-02,sharpshooter's oath,weapon,3
-592,2021-11-02,cool steel,weapon,3
-593,2021-11-02,skyrider sword,weapon,3
-594,2021-11-02,cool steel,weapon,3
-595,2021-11-02,magic guide,weapon,3
-596,2021-11-02,thoma,character,4
-597,2021-11-02,thrilling tales of dragon slayers,weapon,3
-598,2021-11-02,thrilling tales of dragon slayers,weapon,3
-599,2021-11-02,harbinger of dawn,weapon,3
-600,2021-11-02,cool steel,weapon,3
-601,2021-11-02,cool steel,weapon,3
-602,2021-11-02,slingshot,weapon,3
-603,2021-11-02,magic guide,weapon,3
 604,2021-11-02,sacrificial greatsword,weapon,4
-605,2021-11-02,thrilling tales of dragon slayers,weapon,3
-606,2021-11-02,ferrous shadow,weapon,3
-607,2021-11-02,skyrider sword,weapon,3
-608,2021-11-02,harbinger of dawn,weapon,3
-609,2021-11-02,bloodtainted greatsword,weapon,3
-610,2021-11-02,sharpshooter's oath,weapon,3
-611,2021-11-02,thrilling tales of dragon slayers,weapon,3
-612,2021-11-02,ferrous shadow,weapon,3
 613,2021-11-03,slingshot,weapon,3
 614,2021-11-04,diona,character,4
 615,2021-11-04,bloodtainted greatsword,weapon,3
@@ -620,7 +223,6 @@
 618,2021-11-05,bloodtainted greatsword,weapon,3
 619,2021-11-06,thrilling tales of dragon slayers,weapon,3
 620,2021-11-07,ferrous shadow,weapon,3
-621,2021-11-07,ferrous shadow,weapon,3
 622,2021-11-09,slingshot,weapon,3
 623,2021-11-10,debate club,weapon,3
 624,2021-11-10,thoma,character,4
@@ -648,48 +250,27 @@
 646,2021-12-14,black tassel,weapon,3
 647,2021-12-14,gorou,character,4
 648,2021-12-14,magic guide,weapon,3
-649,2021-12-14,black tassel,weapon,3
 650,2021-12-14,debate club,weapon,3
 651,2021-12-14,harbinger of dawn,weapon,3
-652,2021-12-14,cool steel,weapon,3
 653,2021-12-14,ferrous shadow,weapon,3
 654,2021-12-14,bloodtainted greatsword,weapon,3
-655,2021-12-14,magic guide,weapon,3
 656,2021-12-14,sharpshooter's oath,weapon,3
-657,2021-12-14,gorou,character,4
 658,2021-12-26,bloodtainted greatsword,weapon,3
 659,2021-12-26,arataki itto,character,5
 660,2022-01-05,black tassel,weapon,3
-661,2022-01-05,black tassel,weapon,3
 662,2022-01-05,cool steel,weapon,3
-663,2022-01-05,black tassel,weapon,3
 664,2022-01-05,slingshot,weapon,3
 665,2022-01-05,emerald orb,weapon,3
-666,2022-01-05,cool steel,weapon,3
 667,2022-01-05,dragon's bane,weapon,4
-668,2022-01-05,slingshot,weapon,3
 669,2022-01-05,bloodtainted greatsword,weapon,3
-670,2022-01-05,slingshot,weapon,3
-671,2022-01-05,emerald orb,weapon,3
 672,2022-01-05,ferrous shadow,weapon,3
-673,2022-01-05,cool steel,weapon,3
 674,2022-01-05,thrilling tales of dragon slayers,weapon,3
-675,2022-01-05,slingshot,weapon,3
 676,2022-01-05,yun jin,character,4
 677,2022-01-05,raven bow,weapon,3
-678,2022-01-05,slingshot,weapon,3
-679,2022-01-05,slingshot,weapon,3
 680,2022-01-05,ningguang,character,4
 681,2022-01-05,skyrider sword,weapon,3
 682,2022-01-05,sharpshooter's oath,weapon,3
-683,2022-01-05,cool steel,weapon,3
-684,2022-01-05,sharpshooter's oath,weapon,3
-685,2022-01-05,thrilling tales of dragon slayers,weapon,3
 686,2022-01-05,magic guide,weapon,3
-687,2022-01-05,raven bow,weapon,3
-688,2022-01-05,black tassel,weapon,3
-689,2022-01-05,slingshot,weapon,3
-690,2022-01-05,yun jin,character,4
 691,2022-01-08,bloodtainted greatsword,weapon,3
 692,2022-01-08,rust,weapon,4
 693,2022-01-15,ferrous shadow,weapon,3
@@ -700,132 +281,52 @@
 698,2022-01-23,thrilling tales of dragon slayers,weapon,3
 699,2022-01-23,debate club,weapon,3
 700,2022-01-23,slingshot,weapon,3
-701,2022-01-23,ferrous shadow,weapon,3
 702,2022-01-23,ningguang,character,4
 703,2022-01-25,chongyun,character,4
 704,2022-01-25,black tassel,weapon,3
-705,2022-01-25,black tassel,weapon,3
 706,2022-01-25,beidou,character,4
 707,2022-01-25,emerald orb,weapon,3
 708,2022-01-25,ferrous shadow,weapon,3
-709,2022-01-25,ferrous shadow,weapon,3
 710,2022-01-25,sharpshooter's oath,weapon,3
 711,2022-01-25,magic guide,weapon,3
 712,2022-01-25,cool steel,weapon,3
-713,2022-01-25,ferrous shadow,weapon,3
 714,2022-01-25,debate club,weapon,3
 715,2022-01-25,favonius lance,weapon,4
 716,2022-01-25,harbinger of dawn,weapon,3
-717,2022-01-25,beidou,character,4
-718,2022-01-25,emerald orb,weapon,3
-719,2022-01-25,debate club,weapon,3
-720,2022-01-25,ferrous shadow,weapon,3
 721,2022-01-25,xingqiu,character,4
-722,2022-01-25,magic guide,weapon,3
 723,2022-01-25,the flute,weapon,4
-724,2022-01-25,emerald orb,weapon,3
-725,2022-01-25,ferrous shadow,weapon,3
-726,2022-01-25,sharpshooter's oath,weapon,3
 727,2022-01-25,bloodtainted greatsword,weapon,3
 728,2022-01-25,skyrider sword,weapon,3
-729,2022-01-25,black tassel,weapon,3
-730,2022-01-25,sharpshooter's oath,weapon,3
-731,2022-01-25,black tassel,weapon,3
-732,2022-01-25,beidou,character,4
 733,2022-01-25,thrilling tales of dragon slayers,weapon,3
-734,2022-01-25,thrilling tales of dragon slayers,weapon,3
-735,2022-01-25,beidou,character,4
-736,2022-01-25,ferrous shadow,weapon,3
-737,2022-01-25,emerald orb,weapon,3
 738,2022-01-25,qiqi,character,5
-739,2022-01-25,thrilling tales of dragon slayers,weapon,3
-740,2022-01-25,debate club,weapon,3
-741,2022-01-25,cool steel,weapon,3
-742,2022-01-25,magic guide,weapon,3
-743,2022-01-25,thrilling tales of dragon slayers,weapon,3
 744,2022-01-25,eye of perception,weapon,4
-745,2022-01-25,skyrider sword,weapon,3
-746,2022-01-25,magic guide,weapon,3
-747,2022-01-25,black tassel,weapon,3
-748,2022-01-25,cool steel,weapon,3
-749,2022-01-25,ferrous shadow,weapon,3
-750,2022-01-25,bloodtainted greatsword,weapon,3
-751,2022-01-25,debate club,weapon,3
-752,2022-01-25,sharpshooter's oath,weapon,3
-753,2022-01-25,black tassel,weapon,3
-754,2022-01-25,beidou,character,4
-755,2022-01-25,cool steel,weapon,3
-756,2022-01-25,skyrider sword,weapon,3
-757,2022-01-25,emerald orb,weapon,3
-758,2022-01-25,skyrider sword,weapon,3
 759,2022-01-25,xianling,character,4
-760,2022-01-25,thrilling tales of dragon slayers,weapon,3
-761,2022-01-25,beidou,character,4
-762,2022-01-25,magic guide,weapon,3
-763,2022-01-25,debate club,weapon,3
 764,2022-01-25,slingshot,weapon,3
 765,2022-02-16,bloodtainted greatsword,weapon,3
 766,2022-02-16,magic guide,weapon,3
 767,2022-02-16,skyrider sword,weapon,3
-768,2022-02-16,bloodtainted greatsword,weapon,3
-769,2022-02-16,magic guide,weapon,3
 770,2022-02-16,the flute,weapon,4
 771,2022-02-16,emerald orb,weapon,3
-772,2022-02-16,emerald orb,weapon,3
 773,2022-02-16,thrilling tales of dragon slayers,weapon,3
-774,2022-02-16,emerald orb,weapon,3
-775,2022-02-16,skyrider sword,weapon,3
 776,2022-02-16,harbinger of dawn,weapon,3
-777,2022-02-16,harbinger of dawn,weapon,3
-778,2022-02-16,emerald orb,weapon,3
 779,2022-02-16,thoma,character,4
 780,2022-02-16,cool steel,weapon,3
-781,2022-02-16,cool steel,weapon,3
 782,2022-02-16,ferrous shadow,weapon,3
 783,2022-02-16,sharpshooter's oath,weapon,3
 784,2022-02-16,black tassel,weapon,3
-785,2022-02-16,skyrider sword,weapon,3
 786,2022-02-16,slingshot,weapon,3
-787,2022-02-16,cool steel,weapon,3
 788,2022-02-16,fischl,character,4
 789,2022-02-16,raven bow,weapon,3
-790,2022-02-16,emerald orb,weapon,3
-791,2022-02-16,emerald orb,weapon,3
-792,2022-02-16,thrilling tales of dragon slayers,weapon,3
-793,2022-02-16,bloodtainted greatsword,weapon,3
-794,2022-02-16,thrilling tales of dragon slayers,weapon,3
-795,2022-02-16,ferrous shadow,weapon,3
-796,2022-02-16,emerald orb,weapon,3
-797,2022-02-16,cool steel,weapon,3
-798,2022-02-16,fischl,character,4
-799,2022-02-16,skyrider sword,weapon,3
-800,2022-02-16,thoma,character,4
-801,2022-02-16,emerald orb,weapon,3
-802,2022-02-16,bloodtainted greatsword,weapon,3
 803,2022-02-16,debate club,weapon,3
-804,2022-02-16,harbinger of dawn,weapon,3
-805,2022-02-16,slingshot,weapon,3
-806,2022-02-16,cool steel,weapon,3
-807,2022-02-16,ferrous shadow,weapon,3
-808,2022-02-16,ferrous shadow,weapon,3
 809,2022-02-16,diona,character,4
-810,2022-02-16,black tassel,weapon,3
-811,2022-02-16,bloodtainted greatsword,weapon,3
-812,2022-02-16,emerald orb,weapon,3
-813,2022-02-16,bloodtainted greatsword,weapon,3
-814,2022-02-16,raven bow,weapon,3
 815,2022-02-16,yae miko,character,5
 816,2022-02-16,sacrificial greatsword,weapon,4
-817,2022-02-16,sharpshooter's oath,weapon,3
 818,2022-03-08,debate club,weapon,3
-819,2022-03-08,debate club,weapon,3
 820,2022-03-08,emerald orb,weapon,3
 821,2022-03-08,raven bow,weapon,3
-822,2022-03-08,emerald orb,weapon,3
 823,2022-03-08,cool steel,weapon,3
 824,2022-03-08,skyrider sword,weapon,3
 825,2022-03-08,xinyan,character,4
-826,2022-03-08,debate club,weapon,3
 827,2022-03-08,bloodtainted greatsword,weapon,3
 828,2022-03-12,debate club,weapon,3
 829,2022-03-12,slingshot,weapon,3
@@ -833,58 +334,25 @@
 831,2022-03-12,raven bow,weapon,3
 832,2022-03-12,thrilling tales of dragon slayers,weapon,3
 833,2022-03-12,cool steel,weapon,3
-834,2022-03-12,debate club,weapon,3
 835,2022-03-12,the widsith,weapon,4
 836,2022-04-20,bloodtainted greatsword,weapon,3
 837,2022-04-20,emerald orb,weapon,3
 838,2022-04-20,black tassel,weapon,3
-839,2022-04-20,emerald orb,weapon,3
-840,2022-04-20,black tassel,weapon,3
 841,2022-04-20,raven bow,weapon,3
 842,2022-04-20,thrilling tales of dragon slayers,weapon,3
 843,2022-04-20,debate club,weapon,3
 844,2022-04-20,magic guide,weapon,3
 845,2022-04-20,razor,character,4
-846,2022-04-20,bloodtainted greatsword,weapon,3
 847,2022-04-20,sharpshooter's oath,weapon,3
 848,2022-04-20,ferrous shadow,weapon,3
-849,2022-04-20,sharpshooter's oath,weapon,3
-850,2022-04-20,bloodtainted greatsword,weapon,3
-851,2022-04-20,magic guide,weapon,3
-852,2022-04-20,ferrous shadow,weapon,3
-853,2022-04-20,raven bow,weapon,3
 854,2022-04-20,rust,weapon,4
 855,2022-04-20,sayu,character,4
-856,2022-04-20,bloodtainted greatsword,weapon,3
-857,2022-04-20,debate club,weapon,3
 858,2022-04-20,cool steel,weapon,3
-859,2022-04-20,emerald orb,weapon,3
-860,2022-04-20,magic guide,weapon,3
-861,2022-04-20,emerald orb,weapon,3
-862,2022-04-20,debate club,weapon,3
-863,2022-04-20,sharpshooter's oath,weapon,3
-864,2022-04-20,sayu,character,4
-865,2022-04-20,raven bow,weapon,3
-866,2022-04-20,black tassel,weapon,3
 867,2022-04-20,slingshot,weapon,3
-868,2022-04-20,black tassel,weapon,3
-869,2022-04-20,slingshot,weapon,3
-870,2022-04-20,black tassel,weapon,3
-871,2022-04-20,slingshot,weapon,3
-872,2022-04-20,slingshot,weapon,3
 873,2022-04-20,rosaria,character,4
-874,2022-04-20,black tassel,weapon,3
-875,2022-04-20,magic guide,weapon,3
-876,2022-04-20,bloodtainted greatsword,weapon,3
-877,2022-04-20,debate club,weapon,3
-878,2022-04-20,ferrous shadow,weapon,3
 879,2022-04-20,harbinger of dawn,weapon,3
-880,2022-04-20,magic guide,weapon,3
-881,2022-04-20,sharpshooter's oath,weapon,3
 882,2022-04-20,skyrider sword,weapon,4
 883,2022-04-20,favonius greatsword,weapon,3
-884,2022-04-20,thrilling tales of dragon slayers,weapon,3
-885,2022-04-20,black tassel,weapon,3
 886,2022-04-21,black tassel,weapon,3
 887,2022-04-21,cool steel,weapon,3
 888,2022-04-21,skyrider sword,weapon,3
@@ -907,7 +375,6 @@
 905,2022-05-08,ferrous shadow,weapon,3
 906,2022-05-08,thrilling tales of dragon slayers,weapon,3
 907,2022-05-08,sharpshooter's oath,weapon,3
-908,2022-05-08,ferrous shadow,weapon,3
 909,2022-05-10,magic guide,weapon,3
 910,2022-05-10,ferrous shadow,weapon,3
 911,2022-05-11,magic guide,weapon,3
@@ -916,18 +383,14 @@
 914,2022-06-12,debate club,weapon,3
 915,2022-06-12,harbinger of dawn,weapon,3
 916,2022-06-12,thrilling tales of dragon slayers,weapon,3
-917,2022-06-12,thrilling tales of dragon slayers,weapon,3
 918,2022-06-12,magic guide,weapon,3
 919,2022-06-12,slingshot,weapon,3
-920,2022-06-12,slingshot,weapon,3
 921,2022-06-12,raven bow,weapon,3
 922,2022-06-14,barbara,character,4
 923,2022-06-14,slingshot,weapon,3
 924,2022-06-14,emerald orb,weapon,3
 925,2022-06-14,magic guide,weapon,3
 926,2022-06-14,ferrous shadow,weapon,3
-927,2022-06-14,magic guide,weapon,3
-928,2022-06-14,slingshot,weapon,3
 929,2022-06-15,cool steel,weapon,3
 930,2022-06-17,slingshot,weapon,3
 931,2022-06-22,favonius sword,weapon,4
@@ -941,15 +404,8 @@
 939,2022-06-22,thrilling tales of dragon slayers,weapon,3
 940,2022-06-22,kuki shinobu,character,4
 941,2022-06-22,ningguang,character,4
-942,2022-06-22,emerald orb,weapon,3
-943,2022-06-22,bloodtainted greatsword,weapon,3
 944,2022-06-22,slingshot,weapon,3
 945,2022-06-22,ferrous shadow,weapon,3
-946,2022-06-22,ferrous shadow,weapon,3
-947,2022-06-22,harbinger of dawn,weapon,3
-948,2022-06-22,bloodtainted greatsword,weapon,3
-949,2022-06-22,thrilling tales of dragon slayers,weapon,3
-950,2022-06-22,magic guide,weapon,3
 951,2022-06-22,gorou,character,4
 952,2022-06-22,sharpshooter's oath,weapon,3
 953,2022-07-13,emerald orb,weapon,3
@@ -957,19 +413,15 @@
 955,2022-07-13,magic guide,weapon,3
 956,2022-07-13,favonius greatsword,weapon,4
 957,2022-07-13,sharpshooter's oath,weapon,3
-958,2022-07-13,sharpshooter's oath,weapon,3
 959,2022-07-13,cool steel,weapon,3
 960,2022-07-13,bloodtainted greatsword,weapon,3
 961,2022-07-13,harbinger of dawn,weapon,3
-962,2022-07-13,emerald orb,weapon,3
 963,2022-07-28,emerald orb,weapon,3
 964,2022-07-28,sharpshooter's oath,weapon,3
 965,2022-07-28,shikanoin heizou,character,4
 966,2022-07-28,magic guide,weapon,3
 967,2022-07-28,cool steel,weapon,3
-968,2022-07-28,cool steel,weapon,3
 969,2022-07-28,ferrous shadow,weapon,3
-970,2022-07-28,ferrous shadow,weapon,3
 971,2022-07-28,debate club,weapon,3
 972,2022-07-28,thoma,character,4
 973,2022-07-31,kaedehara kazuha,character,5
@@ -981,8 +433,6 @@
 979,2022-08-02,skyrider sword,weapon,3
 980,2022-08-02,emerald orb,weapon,3
 981,2022-08-02,yun jin,character,4
-982,2022-08-02,magic guide,weapon,3
-983,2022-08-02,debate club,weapon,3
 984,2022-08-19,lion's roar,weapon,4
 985,2022-08-19,sharpshooter's oath,weapon,3
 986,2022-08-19,skyrider sword,weapon,3
@@ -996,7 +446,6 @@
 994,2022-08-24,raven bow,weapon,3
 995,2022-08-24,cool steel,weapon,3
 996,2022-08-24,magic guide,weapon,3
-997,2022-08-24,skyrider sword,weapon,3
 998,2022-08-24,emerald orb,weapon,3
 999,2022-08-24,diona,character,4
 1000,2022-09-05,slingshot,weapon,3
@@ -1010,43 +459,26 @@
 1008,2022-09-09,emerald orb,weapon,3
 1009,2022-09-09,ferrous shadow,weapon,3
 1010,2022-09-09,raven bow,weapon,3
-1011,2022-09-09,ferrous shadow,weapon,3
-1012,2022-09-09,raven bow,weapon,3
 1013,2022-09-09,magic guide,weapon,3
 1014,2022-09-09,xingqiu,character,4
 1015,2022-09-09,cool steel,weapon,3
 1016,2022-09-09,thrilling tales of dragon slayers,weapon,3
-1017,2022-09-09,slingshot,weapon,3
-1018,2022-09-09,magic guide,weapon,3
 1019,2022-09-09,sharpshooter's oath,weapon,3
 1020,2022-09-09,harbinger of dawn,weapon,3
-1021,2022-09-09,cool steel,weapon,3
-1022,2022-09-09,magic guide,weapon,3
-1023,2022-09-09,slingshot,weapon,3
 1024,2022-09-09,sacrificial bow,weapon,4
 1025,2022-09-09,bloodtainted greatsword,weapon,3
-1026,2022-09-09,raven bow,weapon,3
-1027,2022-09-09,thrilling tales of dragon slayers,weapon,3
-1028,2022-09-09,ferrous shadow,weapon,3
-1029,2022-09-09,emerald orb,weapon,3
-1030,2022-09-09,cool steel,weapon,3
-1031,2022-09-09,sharpshooter's oath,weapon,3
-1032,2022-09-09,raven bow,weapon,3
-1033,2022-09-09,ferrous shadow,weapon,3
 1034,2022-09-09,dori,character,4
 1035,2022-09-10,magic guide,weapon,3
 1036,2022-09-10,sharpshooter's oath,weapon,3
 1037,2022-09-10,raven bow,weapon,3
 1038,2022-09-10,slingshot,weapon,3
 1039,2022-09-10,bloodtainted greatsword,weapon,3
-1040,2022-09-10,sharpshooter's oath,weapon,3
 1041,2022-09-10,dori,character,4
 1042,2022-09-11,skyrider sword,weapon,3
 1043,2022-09-12,debate club,weapon,3
 1044,2022-09-13,thrilling tales of dragon slayers,weapon,3
 1045,2022-09-14,skyrider sword,weapon,3
 1046,2022-09-15,sharpshooter's oath,weapon,3
-1047,2022-09-15,sharpshooter's oath,weapon,3
 1048,2022-09-15,skyrider sword,weapon,3
 1049,2022-09-16,diluc,character,5
 1050,2022-09-16,debate club,weapon,3
@@ -1054,20 +486,13 @@
 1052,2022-09-16,harbinger of dawn,weapon,3
 1053,2022-09-16,ferrous shadow,weapon,3
 1054,2022-09-16,bloodtainted greatsword,weapon,3
-1055,2022-09-16,debate club,weapon,3
 1056,2022-09-16,black tassel,weapon,3
 1057,2022-09-16,magic guide,weapon,3
-1058,2022-09-16,harbinger of dawn,weapon,3
-1059,2022-09-16,magic guide,weapon,3
-1060,2022-09-16,ferrous shadow,weapon,3
 1061,2022-09-16,dori,character,4
 1062,2022-09-16,thrilling tales of dragon slayers,weapon,3
 1063,2022-09-16,cool steel,weapon,3
-1064,2022-09-16,magic guide,weapon,3
-1065,2022-09-16,bloodtainted greatsword,weapon,3
 1066,2022-09-16,chongyun,character,4
 1067,2022-09-16,slingshot,weapon,3
-1068,2022-09-16,black tassel,weapon,3
 1069,2022-09-17,thrilling tales of dragon slayers,weapon,3
 1070,2022-09-18,thrilling tales of dragon slayers,weapon,3
 1071,2022-09-18,black tassel,weapon,3
@@ -1083,105 +508,35 @@
 1081,2022-11-02,emerald orb,weapon,3
 1082,2022-11-02,thrilling tales of dragon slayers,weapon,3
 1083,2022-11-02,harbinger of dawn,weapon,3
-1084,2022-11-02,debate club,weapon,3
-1085,2022-11-02,debate club,weapon,3
 1086,2022-11-02,noelle,character,4
-1087,2022-11-02,debate club,weapon,3
 1088,2022-11-02,slingshot,weapon,3
 1089,2022-11-02,cool steel,weapon,3
 1090,2022-11-02,sharpshooter's oath,weapon,3
-1091,2022-11-02,slingshot,weapon,3
 1092,2022-11-02,magic guide,weapon,3
 1093,2022-11-02,bloodtainted greatsword,weapon,3
 1094,2022-11-02,ferrous shadow,weapon,3
 1095,2022-11-02,razor,character,4
-1096,2022-11-02,magic guide,weapon,3
-1097,2022-11-02,harbinger of dawn,weapon,3
-1098,2022-11-02,harbinger of dawn,weapon,3
-1099,2022-11-02,debate club,weapon,3
-1100,2022-11-02,magic guide,weapon,3
-1101,2022-11-02,cool steel,weapon,3
 1102,2022-11-02,sacrificial fragments,weapon,4
-1103,2022-11-02,harbinger of dawn,weapon,3
-1104,2022-11-02,magic guide,weapon,3
-1105,2022-11-02,harbinger of dawn,weapon,3
-1106,2022-11-02,emerald orb,weapon,3
 1107,2022-11-02,skyrider sword,weapon,3
-1108,2022-11-02,magic guide,weapon,3
-1109,2022-11-02,thrilling tales of dragon slayers,weapon,3
-1110,2022-11-02,magic guide,weapon,3
-1111,2022-11-02,bloodtainted greatsword,weapon,3
-1112,2022-11-02,noelle,character,4
 1113,2022-11-02,black tassel,weapon,3
 1114,2022-11-02,bennett,character,4
-1115,2022-11-02,bloodtainted greatsword,weapon,3
-1116,2022-11-02,cool steel,weapon,3
-1117,2022-11-02,magic guide,weapon,3
-1118,2022-11-02,thrilling tales of dragon slayers,weapon,3
-1119,2022-11-02,slingshot,weapon,3
-1120,2022-11-02,sharpshooter's oath,weapon,3
-1121,2022-11-02,thrilling tales of dragon slayers,weapon,3
-1122,2022-11-02,debate club,weapon,3
 1123,2022-11-02,sacrificial bow,weapon,4
-1124,2022-11-02,cool steel,weapon,3
-1125,2022-11-02,ferrous shadow,weapon,3
-1126,2022-11-02,ferrous shadow,weapon,3
 1127,2022-11-02,nahida,character,5
-1128,2022-11-02,magic guide,weapon,3
-1129,2022-11-02,black tassel,weapon,3
-1130,2022-11-02,thrilling tales of dragon slayers,weapon,3
-1131,2022-11-02,ferrous shadow,weapon,3
-1132,2022-11-02,magic guide,weapon,3
-1133,2022-11-02,noelle,character,4
-1134,2022-11-02,bloodtainted greatsword,weapon,3
-1135,2022-11-02,magic guide,weapon,3
-1136,2022-11-02,skyrider sword,weapon,3
-1137,2022-11-02,skyrider sword,weapon,3
-1138,2022-11-02,ferrous shadow,weapon,3
-1139,2022-11-02,raven bow,weapon,3
-1140,2022-11-02,black tassel,weapon,3
-1141,2022-11-02,harbinger of dawn,weapon,3
-1142,2022-11-02,magic guide,weapon,3
 1143,2022-11-02,favonius sword,weapon,4
-1144,2022-11-02,emerald orb,weapon,3
-1145,2022-11-02,ferrous shadow,weapon,3
-1146,2022-11-02,debate club,weapon,3
-1147,2022-11-02,emerald orb,weapon,3
-1148,2022-11-02,ferrous shadow,weapon,3
-1149,2022-11-02,magic guide,weapon,3
-1150,2022-11-02,thrilling tales of dragon slayers,weapon,3
-1151,2022-11-02,cool steel,weapon,3
 1152,2022-11-04,thrilling tales of dragon slayers,weapon,3
 1153,2022-11-18,shikanoin heizou,character,4
 1154,2022-11-18,black tassel,weapon,3
 1155,2022-11-18,debate club,weapon,3
 1156,2022-11-18,sharpshooter's oath,weapon,3
 1157,2022-11-18,magic guide,weapon,3
-1158,2022-11-18,sharpshooter's oath,weapon,3
-1159,2022-11-18,magic guide,weapon,3
-1160,2022-11-18,black tassel,weapon,3
-1161,2022-11-18,black tassel,weapon,3
 1162,2022-11-18,skyrider sword,weapon,3
 1163,2022-11-18,favonius warbow,weapon,4
-1164,2022-11-18,black tassel,weapon,3
 1165,2022-11-18,harbinger of dawn,weapon,3
 1166,2022-11-18,slingshot,weapon,3
-1167,2022-11-18,debate club,weapon,3
-1168,2022-11-18,harbinger of dawn,weapon,3
 1169,2022-11-18,emerald orb,weapon,3
-1170,2022-11-18,slingshot,weapon,3
-1171,2022-11-18,black tassel,weapon,3
 1172,2022-11-18,cool steel,weapon,3
 1173,2022-11-18,layla,weapon,3
-1174,2022-11-18,sharpshooter's oath,weapon,3
-1175,2022-11-18,emerald orb,weapon,3
-1176,2022-11-18,black tassel,weapon,3
-1177,2022-11-18,harbinger of dawn,weapon,3
 1178,2022-11-18,bloodtainted greatsword,weapon,3
-1179,2022-11-18,black tassel,weapon,3
-1180,2022-11-18,harbinger of dawn,weapon,3
-1181,2022-11-18,black tassel,weapon,3
-1182,2022-11-18,magic guide,weapon,3
 1183,2022-11-18,sacrificial greatsword,weapon,3
 1184,2022-11-19,debate club,weapon,3
 1185,2022-11-19,raven bow,weapon,3
